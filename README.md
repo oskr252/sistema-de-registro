@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ```mpm install```
+
+Sistema de Registro 2
